@@ -1,7 +1,12 @@
 import React from 'react';
+import CurrencyCalculator from '../components/CurrencyCalculator';
 
 const CurrencyScreen = () => {
-  return <div>CurrencyScreen</div>;
+  return (
+    <div>
+      <CurrencyCalculator></CurrencyCalculator>
+    </div>
+  );
 };
 
 export default CurrencyScreen;
