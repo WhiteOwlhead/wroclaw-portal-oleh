@@ -21,4 +21,7 @@ main{
   object-fit:cover;
 }
 
+.btn-custom{
+  background-color: #69a3ff !important;
+}
 

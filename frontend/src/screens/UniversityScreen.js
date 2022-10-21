@@ -1,7 +1,12 @@
 import React from 'react';
+import Univercity from '../components/Univercity';
 
 const UniversityScreen = () => {
-  return <div>UniversityScreen</div>;
+  return (
+    <div>
+      <Univercity />
+    </div>
+  );
 };
 
 export default UniversityScreen;
